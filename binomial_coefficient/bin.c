@@ -13,10 +13,6 @@ int main(void)
 
 	printf("%dC%d is ... %d\n", n, k, bin(n, k));
 
-
-	
-
-
 	return 0;
 }
 
